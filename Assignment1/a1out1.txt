@@ -1,0 +1,16 @@
+total 64
+drwxr-xr-x 2 anastasi student 4096 Jan 17 10:21 .
+drwxr-xr-x 3 anastasi student 4096 Jan 17 10:21 ..
+-rw-r--r-- 1 anastasi student 7610 Jan 17 10:12 catinthehat.txt
+-rw-r--r-- 1 anastasi student  952 Jan 17 10:12 compound.c
+-rw-r--r-- 1 anastasi student 1419 Jan 17 10:12 .emacs
+-rwxr-xr-x 1 anastasi student  358 Jan 17 10:12 first.sh
+-rw-r--r-- 1 anastasi student   61 Jan 17 10:12 GNU.info
+-rw-r--r-- 1 anastasi student  501 Jan 17 10:12 hello.c
+-rw-r--r-- 1 anastasi student   20 Jan 17 10:12 .hidden
+-rw-r--r-- 1 anastasi student   19 Jan 17 10:12 .hidden-junk
+-rw-r--r-- 1 anastasi student  194 Jan 17 10:12 junk.c
+-rwxr-xr-x 1 anastasi student  189 Jan 17 10:12 second.sh
+-rw-r--r-- 1 anastasi student  338 Jan 17 10:12 status1.txt
+-rw-r--r-- 1 anastasi student  335 Jan 17 10:12 status2.txt
+-rwxr--r-- 1 anastasi student  104 Jan 17 10:12 .vimrc

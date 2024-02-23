@@ -1,0 +1,47 @@
+# file: oneLiners.txt
+# author: Wesley Anastasi
+# course: CSI 3336
+# due date: 8/25/2016
+#
+# date modified: 2/6/2024
+# - File Created
+#
+# This document will provide required commands for Project 2
+
+# 1.
+
+rm *.[0-9]*
+
+# 2.
+
+rename .csv.txt .csv *.csv.txt
+
+# 3.
+
+grep -ci jesus ~maars/cs3336/files/kjv.txt
+
+# 4.
+
+grep -oi jesus ~maars/cs3336/files/kjv.txt | wc -l
+
+# 5.
+
+grep -o '\b[a-zA-Z]\+\b' ~maars/cs3336/files/kjv.txt | sort -f | uniq -ci | sort -nr | grep -om 10 '\b[a-zA-Z]\+\b'
+
+# 6.
+
+ps -eo user= | sort -u
+
+# 7. 
+
+tar -czf $(whoami)-assign3.tar.gz assign3
+
+# 8.
+
+tar -xzf $(whoami)-assign3.tar.gz
+
+#or whatever filename you want
+
+# 9.
+
+chmod 744 *.sh
