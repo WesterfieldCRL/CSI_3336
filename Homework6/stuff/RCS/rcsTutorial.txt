@@ -1,0 +1,6 @@
+total 16
+drwxrwxr-x 2 wesley wesley 4096 Feb 23 13:36 .
+drwxrwxr-x 3 wesley wesley 4096 Feb 23 13:32 ..
+-r--r--r-- 1 wesley wesley  323 Feb 23 13:32 a.c,v
+-r--r--r-- 1 wesley wesley  186 Feb 23 13:31 b.c,v
+-rw-rw-r-- 1 wesley wesley    0 Feb 23 13:36 rcsTutorial.txt

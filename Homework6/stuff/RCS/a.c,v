@@ -1,0 +1,38 @@
+head	1.2;
+access;
+symbols;
+locks; strict;
+comment	@ * @;
+
+
+1.2
+date	2024.02.23.19.32.33;	author wesley;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2024.02.23.19.30.36;	author wesley;	state Exp;
+branches;
+next	;
+
+
+desc
+@help.
+@
+
+
+1.2
+log
+@more pain: the pain returns
+@
+text
+@pain 2@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d1 1
+@
